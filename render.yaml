@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: car-finder-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
