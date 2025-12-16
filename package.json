@@ -1,7 +1,10 @@
 {
-    "type": "module",
-    "dependencies": {
-      "axios": "^1.6.0",
-      "cheerio": "^1.0.0-rc.12"
-    }
+  "name": "car-scraper-backend",
+  "version": "1.0.0",
+  "description": "Backend service for scraping car listings from CT and NY",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
   }
+}
